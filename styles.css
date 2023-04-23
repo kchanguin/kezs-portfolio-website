@@ -126,13 +126,13 @@ text-align: center;
 background-color: black;
 }
 
-.projectPhoto img{
+/*.projectPhoto img{
     width: 400px;
     height:250px;
     display:inline-flex;
-    justify-content: centergit;
+    
 
-}
+}*/
 
 .myProject-header{
     font-family: century;
@@ -140,6 +140,14 @@ background-color: black;
     text-align: center;
     margin: 25px 0px;
 
+
+}
+
+
+#myProjectImage {
+    width: 120px;
+    height: 70px;
+   
 
 }
 
